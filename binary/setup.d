@@ -1,0 +1,1 @@
+/workspaces/rust/setup-cli/target/release/setup: /workspaces/rust/setup-cli/src/lib.rs /workspaces/rust/setup-cli/src/main.rs /workspaces/rust/setup-cli/src/manager_files/error_handlering.rs /workspaces/rust/setup-cli/src/manager_files.rs /workspaces/rust/setup-cli/src/setup_run.rs
